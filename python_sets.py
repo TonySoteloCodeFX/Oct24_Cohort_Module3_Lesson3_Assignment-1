@@ -28,7 +28,6 @@ def proprietary_destinations():
     for index, destination in enumerate(thiers):
           print(f"#{index + 1}: {destination}")
     return "-" * 50
-          
 
 
 print(common_destinations())
